@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\wolff\onedrive\school stuff\advanced c++\ethansutherland_week7\ethansutherland_week7\game.cpp(554): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EthanSutherland_Week7.vcxproj -> C:\Users\wolff\OneDrive\School Stuff\Advanced C++\EthanSutherland_Week7\Debug\EthanSutherland_Week7.exe
+  EthanSutherland_Week7.vcxproj -> C:\Users\wolff\OneDrive\School Stuff\Advanced C++\EthanSutherland_Week7\Debug\EthanSutherland_Week7.pdb (Partial PDB)
